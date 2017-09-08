@@ -20,10 +20,12 @@
   "homepage": "https://github.com/maoruibin001/review2#readme",
   "dependencies": {
     "express": "^4.15.4",
+    "jquery": "^3.2.1",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
+    "react-redux": "^5.0.6",
     "redux": "^3.7.2",
-    "react-redux": "^5.0.6"
+    "vue": "^2.4.2"
   },
   "devDependencies": {
     "react-scripts": "^1.0.13"
